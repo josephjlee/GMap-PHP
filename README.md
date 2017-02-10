@@ -60,3 +60,7 @@ $icon = "http://your_website.com/gps_pointer.svg";
   </body>
 </html>
 ```
+
+
+### I know...
+Using Javascript and PHP like this not the best but.. Hey! It works :) Don't blame me please.
