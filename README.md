@@ -1,5 +1,5 @@
 # GMap-PHP
-Use Google Map with PHP (and MySQL) arrays
+Use Google Map with PHP (and MySQL) array. Yes, is so easy. See a [Full Example](#full-example)
 ## How to use it
 You have to include the gmap_php.php file where you want to place the map:
 ```php
